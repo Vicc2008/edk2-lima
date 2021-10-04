@@ -1,2 +1,2 @@
-# edk2-mtkp70
+# edk2-lima
 UEFI Firmware for Motorola G8 Play
